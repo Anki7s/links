@@ -37,4 +37,6 @@ https://www.npr.org/2019/10/18/771360559/how-to-vote-in-an-election
 
 
 ### Design-Templates 
-https://bootsnipp.com/snippets/ZXDGO
+- https://bootsnipp.com/snippets/ZXDGO
+
+- https://bootsnipp.com/snippets/ObBxV
