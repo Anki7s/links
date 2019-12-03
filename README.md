@@ -61,5 +61,6 @@ bootstrap form
 - https://bootsnipp.com/snippets/ZXDGO
 bootstrap carsole
 - https://bootsnipp.com/snippets/ObBxV
-
- - https://mdbootstrap.com/education/pwa/angular/lesson-7-working-with-databases/
+- https://mdbootstrap.com/education/pwa/angular/lesson-7-working-with-databases/
+**PDF**
+- https://www.pyimagesearch.com/wp-content/uploads/2015/01/the-ultimate-barcode-detection-guide.pdf
