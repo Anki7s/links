@@ -14,6 +14,25 @@ https://medium.com/@bjov97/face-recognition-with-azure-asp-net-docker-part-ii-cb
 
 This man left an indelible footprint in the sands of time.
 
+### Angular
+
+```angular
+
+ <!-- Insert this line above script imports  -->
+ <script>if (typeof module === 'object') {window.module = module; module = undefined;}</script>
+ <script src="assets/js/jquery.min.js"></script>
+ <script src="assets/js/jquery-ui.min.js"></script>
+ <!--<script src="assets/js/jquery-mobile.js"></script>-->
+ <script src="assets/js/owl.carousel.min.js"></script>
+ <script src="assets/js/owl.carousel2.thumbs.min.js"></script>
+ <!-- Insert this line after script imports -->
+ <script>if (window.module) module = window.module;</script>12:04
+=====
+declare var jquery:any;
+declare var $ :any;
+===
+```
+
 ### PWA
 
 https://github.com/jakearchibald/offline-wikipedia
